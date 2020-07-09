@@ -1,14 +1,5 @@
 [
       {
-		"name": "Fluid",
-		"author": "Phones.&.Planes",
-		"url": "https://i.ibb.co/Lr2zNFg/IMG-8273.png",
-		"thumbnail": "https://i.ibb.co/Lr2zNFg/IMG-8273.png",
-		"dimensions": "1535x3324",
-		"copyright": "Share with Credits",
-		"collections": "landscapes"
-	},
-      {
 		"name": "Material 1",
 		"author": "Phones.&.Planes",
 		"url": "https://www.dropbox.com/s/rosd8mq88m574h9/2.png?raw=1",
@@ -22,6 +13,5 @@
 		"thumbnail": "https://www.dropbox.com/s/5k62gfmvpdqfpwe/3.3.png?raw=1",
 		"url": "https://www.dropbox.com/s/i7o8m9nquss7o61/3.png?raw=1",
 		"collections": "people,city",
-		"downloadable": true
 	}
 ]
